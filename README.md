@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there 🖤
+My name is Veronica and I am a front-end developer student at [HackYourFuture-CPH](https://github.com/HackYourFuture-CPH) 👩🏼‍💻
 
-<!--
-**veronicaburduzhan/veronicaburduzhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about coding and creating web applications 💕
 
-Here are some ideas to get you started:
+### My technical skills:
+✨HTML / CSS / Responsive Design <br />
+✨JavaScript <br />
+✨ReactJS <br />
+✨Node.js (ExpressJS) <br />
+✨Databases (MySQL, Knex, MongoDB) <br />
+✨PHP [Basic knowledge] <br />
+✨Git <br />
+✨Adobe Photoshop and InDesign <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Extra things about me:
+⭐️ Currently working on my final project in HackYourFuture Coding Bootcamp <br />
+💻 Looking for a job/internship as a web developer <br />
+📩 Contact me: [LinkedIn](www.linkedin.com/in/veronica-burduzhan), [Email](veronica.burduzhan@gmail.com) <br />
+🥷 Mum of a toddler <br />
