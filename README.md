@@ -1,5 +1,5 @@
 ## Hi there 🖤
-My name is Veronica and I am a front-end developer student at [HackYourFuture-CPH](https://github.com/HackYourFuture-CPH) 👩🏼‍💻
+My name is Veronica and I am a front-end developer and alumnus of [HackYourFuture-CPH](https://github.com/HackYourFuture-CPH) 👩🏼‍💻
 
 I am passionate about coding and creating web applications 💕
 
@@ -14,7 +14,7 @@ I am passionate about coding and creating web applications 💕
 ✨Adobe Photoshop and InDesign <br />
 
 ### Extra things about me:
-⭐️ Currently working on my final project in HackYourFuture Coding Bootcamp <br />
+⭐️ Continue learning ReactJs <br />
 💻 Looking for a job/internship as a web developer <br />
 📩 Contact me: [LinkedIn](www.linkedin.com/in/veronica-burduzhan), [Email](veronica.burduzhan@gmail.com) <br />
 🥷 Mum of a toddler <br />
