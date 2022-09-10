@@ -1,5 +1,5 @@
 ## Hi there 🖤
-My name is Veronica and I am a front-end developer and alumnus of [HackYourFuture-CPH](https://github.com/HackYourFuture-CPH) 👩🏼‍💻
+My name is Veronica and I am a frontend developer and alumnus of [HackYourFuture-CPH](https://github.com/HackYourFuture-CPH) 👩🏼‍💻
 
 I am passionate about coding and creating web applications 💕
 
