@@ -1,5 +1,5 @@
 ## Hi there 🖤
-My name is Veronica and I am a frontend developer intern at [NordInsight](https://www.nordinsight.com/)👩🏼‍💻
+My name is Veronica and I am a software developer at [Shouter](https://shouter.app/)👩🏼‍💻
 
 I am passionate about coding and creating web applications 💕
 
@@ -14,10 +14,8 @@ I am passionate about coding and creating web applications 💕
 ✨Git <br />
 ✨Swagger <br />
 ✨Storybook <br />
-✨Adobe Photoshop and InDesign <br />
 
 ### Extra things about me:
 💻 Alumnus of [HackYourFuture-CPH](https://github.com/HackYourFuture-CPH) <br />
-⭐️ Continue learning React and TypeScript <br />
 📩 Contact me: [LinkedIn](www.linkedin.com/in/veronica-burduzhan), [Email](veronica.burduzhan@gmail.com) <br />
 🥷 Mum of a toddler <br />
