@@ -7,9 +7,11 @@ I am passionate about coding and creating web applications 💕
 ✨HTML / CSS / Responsive Design <br />
 ✨JavaScript <br />
 ✨TypeScript <br />
+✨React Native <br />
 ✨ReactJS <br />
 ✨Node.js (ExpressJS) <br />
-✨Databases (MySQL, Knex.js, MongoDB) <br />
+✨NestJS <br />
+✨Databases (MongoDB, MySQL, Knex.js) <br />
 ✨Umbraco <br />
 ✨Git <br />
 ✨Swagger <br />
