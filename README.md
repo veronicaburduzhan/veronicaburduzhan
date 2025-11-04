@@ -5,19 +5,19 @@ My name is Veronika and I am a software developer at [Shouter](https://shouter.a
 
 🛠️ ###Tech Stack
 
-⚡ TypeScript & JavaScript
-⚡ React Native & Expo
-⚡ React.js & Next.js
-⚡ Node.js (Express, NestJS)
-⚡ Databases: MongoDB, MySQL, Knex.js
-⚡ Redux & RTK Query
-⚡ TanStack Query
-⚡ Automation Testing
-⚡ Docker
-⚡ Git
-⚡ Swagger
-⚡ Storybook
-⚡ Figma
+⚡ TypeScript & JavaScript<br />
+⚡ React Native & Expo<br />
+⚡ React.js & Next.js<br />
+⚡ Node.js (Express, NestJS)<br />
+⚡ Databases: MongoDB, MySQL, Knex.js<br />
+⚡ Redux & RTK Query<br />
+⚡ TanStack Query<br />
+⚡ Automation Testing<br />
+⚡ Docker<br />
+⚡ Git<br />
+⚡ Swagger<br />
+⚡ Storybook<br />
+⚡ Figma<br />
 
 ### Extra things about me:
 💻 Mentor & alumnus of [HackYourFuture-CPH](https://github.com/HackYourFuture-CPH) <br />
