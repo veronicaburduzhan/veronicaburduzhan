@@ -3,7 +3,7 @@ My name is Veronika and I am a software developer at [Shouter](https://shouter.a
 
 💡 I love turning ideas into smooth, user-friendly digital experiences — from mobile apps to full-stack web platforms. Passionate about clean code, great UX, and building products that actually make life better. 💕
 
-🛠️ ### Tech Stack
+### 🛠️ Tech Stack
 
 ⚡ TypeScript & JavaScript<br />
 ⚡ React Native & Expo<br />
